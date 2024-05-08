@@ -1,5 +1,6 @@
 ﻿var random = new Random();
 var randomNumber = random.Next(0, 100);
+Console.WriteLine("WITAJ W GRZE!");
 Console.WriteLine("Wylosowano 1 LICZBĘ od 0 do 100. Zgadnij co to za liczba.");
 var numberOfTries = 0;
 
